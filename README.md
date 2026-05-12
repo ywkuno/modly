@@ -97,7 +97,7 @@ Join the [Discord server](https://discord.gg/BvjDCvS3yr) to stay up to date with
 
 Follow Modly and its development on X:
 
-- [Modly on X]((https://x.com/modly3d))
+- [Modly on X](https://x.com/modly3d)
 - [Lightning Pixel on X](https://x.com/lightningpiixel)
 
 ---
